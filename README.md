@@ -1,18 +1,41 @@
-<h1 align="center">Hi, I'm Nimish</h1>
-<h3 align="center">An aspiring full-stack developer</h3>
+<h1 align="center">Nimish Jain</h1>
+<h3 align="center">An aspiring full-stack developer | Data analytics researcher</h3>
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=nimishjn&label=Profile%20views&color=red&?style=for-the-badge" alt="nimishjn" /> 
-<img src="https://img.shields.io/github/followers/nimishjn?style=social" alt="nimishjn" /> 
+<p align="center">
+  <a href="mailto:nimishjain100701@gmail.com" style="text-decoration:none">
+    <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/nimishjn/" style="text-decoration:none">
+    <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/nimishjn" style="text-decoration:none">
+    <img height="30" src="https://img.shields.io/badge/Github-grey.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/nimishjain_" style="text-decoration:none">
+    <img height="30" src="https://img.shields.io/badge/Twitter-31a2f2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://dev.to/nimishjn" style="text-decoration:none">
+    <img height="30" src="https://img.shields.io/badge/Dev.to-black.svg?&style=for-the-badge&logo=Dev.to&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/nimishjain_" style="text-decoration:none">
+    <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
+  </a>
+  <a href="https://www.fb.com/nimishjain100701" style="text-decoration:none">
+    <img height="30" src = "https://img.shields.io/badge/Facebook-385395.svg?&style=for-the-badge&logo=Facebook&logoColor=white">
+  </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nimishjn&show_icons=true&locale=en&theme=radical&count_private=true" alt="nimishjn" /></p>  
+<!-- <p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=nimishjn&label=Profile%20views&color=red&?style=flat-square" alt="nimishjn" /> 
+</p> -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimishjn&show_icons=true&locale=en&layout=compact&theme=radical" alt="nimishjn" /></p>  
+## GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nimishjn&theme=radical" alt="nimishjn" /></p>  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nimishjn&show_icons=true&locale=en&theme=radical&count_private=true&hide_border=true&hide_title=true" alt="nimishjn" />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimishjn&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="nimishjn" /> -->
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nimishjn&theme=radical&hide_border=true" alt="nimishjn" /> -->
 
-<h3 align="left">Languages and Tools:</h3>
+## Skills and Tools
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -29,7 +52,7 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Research Profiles:</h3>
+## Research Profiles
 <p align="left">
 <a href="https://orcid.org/0000-0001-9607-0764" target="blank"><img align="center" src="./assets/orcid.svg" alt="nimishjn" height="30" width="40" /></a>
 <a href="https://scholar.google.com/citations?user=oKBKRQ0AAAAJ&hl=en" target="blank"><img align="center" src="./assets/google-scholar.svg" alt="nimishjn" height="30" width="40" /></a>
@@ -38,14 +61,14 @@
 <a href="https://sciprofiles.com/profile/1689275" target="blank"><img align="center" src="./assets/sciprofiles.svg" alt="nimishjain_" height="30" width="40" /></a>
 </p>
   
-<h3 align="left">Publications:</h3>
+## Publications
 <ul>
 <li>Modeling of Predictable Variations in Multi-Time Instant Ambient Temperature Time Series <a href="https://ieeexplore.ieee.org/document/9404497" target="blank"><img align="center" src="./assets/link.svg" alt="nimishjain_" height="20" width="20" /></a></li>
 <li>Performance Comparison of Two Statistical Parametric Methods for Outlier Detection and Correction</li>
 <li>New Performance Evaluation Metrics for Outlier Detection and Correction</li>
 </ul>
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nimishjn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimishjn" height="30" width="40" /></a>
 <a href="https://dev.to/nimishjn" target="blank"><img align="center" src="./assets/devto.svg" alt="nimishjn" height="30" width="40" /></a>
@@ -53,4 +76,4 @@
 <a href="https://fb.com/nimishjain100701" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nimishjain100701" height="30" width="40" /></a>
 <a href="https://instagram.com/nimishjain_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nimishjain_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nimishjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nimishjain100701" height="30" width="40" /></a>
-</p>
+</p> -->
