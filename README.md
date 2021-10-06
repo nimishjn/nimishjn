@@ -68,6 +68,12 @@
 <li>New Performance Evaluation Metrics for Outlier Detection and Correction</li>
 </ul>
 
+## Daily.dev card
+
+<a href="https://app.daily.dev/nimishjn">
+  <img src="https://api.daily.dev/devcards/ca32a31a2e394ec68a1a27bd7be41369.png?r=5p6" width="300" alt="NIMISH JAIN's Dev Card"/>
+</a>
+
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nimishjn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimishjn" height="30" width="40" /></a>
