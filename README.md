@@ -1,5 +1,4 @@
-<h1 align="center">Nimish Jain</h1>
-<h3 align="center">An aspiring full-stack developer | Data analytics researcher</h3>
+![Frame 38](https://user-images.githubusercontent.com/63140632/136663757-a09c273b-c185-4bf8-a392-01e3e5fc9a67.png)
 
 <p align="center">
   <a href="mailto:nimishjain100701@gmail.com" style="text-decoration:none">
