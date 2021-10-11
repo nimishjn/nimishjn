@@ -70,7 +70,7 @@
 ## Daily.dev card
 
 <a href="https://app.daily.dev/nimishjn">
-  <img src="https://github.com/nimishjn/nimishjn/blob/main/devcard.svg" width="400" alt="Nimish Jain's Dev Card"/>
+  <img src="https://github.com/nimishjn/nimishjn/blob/main/devcard.svg" width="250" alt="Nimish Jain's Dev Card"/>
 </a>
 
 <!-- <h3 align="left">Connect with me:</h3>
