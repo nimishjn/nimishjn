@@ -13,15 +13,18 @@
   <a href="https://twitter.com/nimishjain_" style="text-decoration:none">
     <img height="30" src="https://img.shields.io/badge/Twitter-31a2f2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
   </a>
+  <a href="https://nimishjn.medium.com/" style="text-decoration:none">
+    <img height="30" src = "https://img.shields.io/badge/Medium-%23FFFFFF.svg?&style=for-the-badge&logo=Medium&logoColor=black">
+  </a>
   <a href="https://dev.to/nimishjn" style="text-decoration:none">
     <img height="30" src="https://img.shields.io/badge/Dev.to-black.svg?&style=for-the-badge&logo=Dev.to&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/nimishjain_" style="text-decoration:none">
+<!--   <a href="https://www.instagram.com/nimishjain_" style="text-decoration:none">
     <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
-  </a>
+  </a> 
   <a href="https://www.fb.com/nimishjain100701" style="text-decoration:none">
     <img height="30" src = "https://img.shields.io/badge/Facebook-385395.svg?&style=for-the-badge&logo=Facebook&logoColor=white">
-  </a>
+  </a> -->
 </p>
 
 <!-- <p align="left"> 
@@ -60,11 +63,16 @@
 <a href="https://sciprofiles.com/profile/1689275" target="blank"><img align="center" src="./assets/sciprofiles.svg" alt="nimishjain_" height="30" width="40" /></a>
 </p>
   
-## Publications
+## Research Publications
 <ul>
-<li>Modeling of Predictable Variations in Multi-Time Instant Ambient Temperature Time Series <a href="https://ieeexplore.ieee.org/document/9404497" target="blank"><img align="center" src="./assets/link.svg" alt="nimishjain_" height="20" width="20" /></a></li>
+<li>Modeling of Predictable Variations in Multi-Time Instant Ambient Temperature Time Series <a href="https://ieeexplore.ieee.org/document/9404497" target="blank"><img align="center" src="./assets/link.svg" alt="nimishjain_" height="18" width="18" /></a></li>
 <li>Performance Comparison of Two Statistical Parametric Methods for Outlier Detection and Correction</li>
 <li>New Performance Evaluation Metrics for Outlier Detection and Correction</li>
+</ul>
+
+## Recent Articles/Blogs
+<ul>
+<li>Toggle Theme in ReactJs <a href="https://nimishjn.medium.com/toggle-theme-in-reactjs-4095dd35c69d" target="blank"><img align="center" src="./assets/link.svg" alt="nimishjain_" height="18" width="18" /></a></li>
 </ul>
 
 ## Daily.dev card
