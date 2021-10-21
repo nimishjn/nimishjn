@@ -39,40 +39,91 @@
 
 ## Skills and Tools
 <p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-<a href="https://ubuntu.com/" target="_blank"> <img src="./assets/Ubuntu.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="./assets/vs_code.svg" alt="vs code" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a> 
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a> 
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://sass-lang.com/" target="_blank">
+    <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="sass" width="40" height="40"/>
+  </a>
+  <a href="https://jquery.com/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/63140632/138343999-b14291bb-a436-47c8-8b6e-8e27843f2228.png" alt="sass" width="40" height="40"/>
+  </a>
+  <a href="https://www.mathworks.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+  </a>
+  <a href="https://ubuntu.com/" target="_blank">
+    <img src="./assets/Ubuntu.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/63140632/138344808-a0c8692d-374c-43fc-8d73-ba5958c81f90.png" alt="bash" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="./assets/vs_code.svg" alt="vs code" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
 </p>
 
 ## Research Profiles
 <p align="left">
-<a href="https://orcid.org/0000-0001-9607-0764" target="blank"><img align="center" src="./assets/orcid.svg" alt="nimishjn" height="30" width="40" /></a>
-<a href="https://scholar.google.com/citations?user=oKBKRQ0AAAAJ&hl=en" target="blank"><img align="center" src="./assets/google-scholar.svg" alt="nimishjn" height="30" width="40" /></a>
-<a href="https://www.researchgate.net/profile/Nimish-Jain-4" target="blank"><img align="center" src="./assets/ResearchGate_icon.svg" alt="nimishjain_" height="30" width="40" /></a>
-<a href="https://publons.com/researcher/4167049/nimish-jain/" target="blank"><img align="center" src="./assets/PUBLONS.svg" alt="nimishjain100701" height="30" width="40" /></a>
-<a href="https://sciprofiles.com/profile/1689275" target="blank"><img align="center" src="./assets/sciprofiles.svg" alt="nimishjain_" height="30" width="40" /></a>
+  <a href="https://orcid.org/0000-0001-9607-0764" target="blank">
+    <img align="center" src="./assets/orcid.svg" alt="nimishjn" height="30" width="40" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=oKBKRQ0AAAAJ&hl=en" target="blank">
+    <img align="center" src="./assets/google-scholar.svg" alt="nimishjn" height="30" width="40" />
+  </a>
+  <a href="https://www.researchgate.net/profile/Nimish-Jain-4" target="blank">
+    <img align="center" src="./assets/ResearchGate_icon.svg" alt="nimishjain_" height="30" width="40" />
+  </a>
+  <a href="https://publons.com/researcher/4167049/nimish-jain/" target="blank">
+    <img align="center" src="./assets/PUBLONS.svg" alt="nimishjain100701" height="30" width="40" />
+  </a>
+  <a href="https://sciprofiles.com/profile/1689275" target="blank">
+    <img align="center" src="./assets/sciprofiles.svg" alt="nimishjain_" height="30" width="40" />
+  </a>
 </p>
   
 ## Research Publications
 <ul>
-<li>Modeling of Predictable Variations in Multi-Time Instant Ambient Temperature Time Series <a href="https://ieeexplore.ieee.org/document/9404497" target="blank"><img align="center" src="./assets/link.svg" alt="nimishjain_" height="18" width="18" /></a></li>
-<li>Performance Comparison of Two Statistical Parametric Methods for Outlier Detection and Correction</li>
-<li>New Performance Evaluation Metrics for Outlier Detection and Correction</li>
+  <li>
+    Modeling of Predictable Variations in Multi-Time Instant Ambient Temperature Time Series 
+    <a href="https://ieeexplore.ieee.org/document/9404497" target="blank"><img align="center" src="./assets/link.svg" alt="nimishjain_" height="18" width="18" /></a>
+  </li>
+  <li>Performance Comparison of Two Statistical Parametric Methods for Outlier Detection and Correction</li>
+  <li>New Performance Evaluation Metrics for Outlier Detection and Correction</li>
 </ul>
 
 ## Recent Articles/Blogs
 <ul>
-<li>Toggle Theme in ReactJs <a href="https://nimishjn.medium.com/toggle-theme-in-reactjs-4095dd35c69d" target="blank"><img align="center" src="./assets/link.svg" alt="nimishjain_" height="18" width="18" /></a></li>
+  <li>
+    Toggle Theme in ReactJs 
+    <a href="https://nimishjn.medium.com/toggle-theme-in-reactjs-4095dd35c69d" target="blank"><img align="center" src="./assets/link.svg" alt="nimishjain_" height="18" width="18" /></a>
+  </li>
 </ul>
 
 ## Daily.dev card
