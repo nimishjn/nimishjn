@@ -115,9 +115,16 @@
 <ul>
   <li>
     Modeling of Predictable Variations in Multi-Time Instant Ambient Temperature Time Series 
-    <a href="https://ieeexplore.ieee.org/document/9404497" target="blank"><img align="center" src="./assets/link.svg" alt="nimishjain_" height="18" width="18" /></a>
+    <a href="https://ieeexplore.ieee.org/document/9404497" target="blank">
+      <img align="center" src="./assets/link.svg" alt="nimishjain_" height="18" width="18" />
+    </a>
   </li>
-  <li>Performance Comparison of Two Statistical Parametric Methods for Outlier Detection and Correction</li>
+  <li>
+    Performance Comparison of Two Statistical Parametric Methods for Outlier Detection and Correction
+    <a href="https://www.sciencedirect.com/science/article/pii/S2405896321014919" target="blank">
+      <img align="center" src="./assets/link.svg" alt="nimishjain_" height="18" width="18" />
+    </a>
+  </li>
   <li>New Performance Evaluation Metrics for Outlier Detection and Correction</li>
 </ul>
 
