@@ -194,11 +194,11 @@
   </li>
 </ul>
 
-## Daily.dev card
+<!-- ## Daily.dev card
 
 <a href="https://app.daily.dev/nimishjn">
   <img src="https://github.com/nimishjn/nimishjn/blob/main/devcard.svg" width="250" alt="Nimish Jain's Dev Card"/>
-</a>
+</a> -->
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
