@@ -87,13 +87,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   
-  
   <a href="https://docs.angularjs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/>
   </a>
   
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://api.iconify.design/logos/nextjs-icon.svg" alt="next" width="40" height="40"/>
   </a>
   
   <a href="https://nodejs.org/" target="_blank">
@@ -116,8 +119,16 @@
     <img src="https://user-images.githubusercontent.com/63140632/138343999-b14291bb-a436-47c8-8b6e-8e27843f2228.png" alt="jquery" width="40" height="40"/>
   </a>
   
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/63140632/155379705-ba343eb1-9336-49ed-8cb2-14e476320433.svg" alt="tailwind" width="40" height="40"/>
+  </a>
+
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
+  
+  <a href="https://mui.com" target="_blank">
+    <img src="https://user-images.githubusercontent.com/63140632/155379329-f42f927e-9061-4d87-884e-f94cc8cc05a5.svg" alt="mui" width="40" height="40"/>
   </a>
   
   <a href="https://www.mysql.com/" target="_blank">
@@ -135,7 +146,7 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://user-images.githubusercontent.com/63140632/138344808-a0c8692d-374c-43fc-8d73-ba5958c81f90.png" alt="bash" width="40" height="40"/>
   </a>
-  
+
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="./assets/vs_code.svg" alt="vs code" width="40" height="40"/>
   </a>
