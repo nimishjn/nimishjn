@@ -1,4 +1,5 @@
-![Frame 38](https://user-images.githubusercontent.com/63140632/136663757-a09c273b-c185-4bf8-a392-01e3e5fc9a67.png)
+<!-- ![Frame 38](https://user-images.githubusercontent.com/63140632/136663757-a09c273b-c185-4bf8-a392-01e3e5fc9a67.png) -->
+![Frame 38](https://user-images.githubusercontent.com/63140632/221672830-16bf4ce0-e162-46dc-8a58-7590025bccd4.svg)
 
 <p align="center">
   
@@ -194,7 +195,12 @@
       <img align="center" src="./assets/link.svg" alt="nimishjain_" height="18" width="18" />
     </a>
   </li>
-  <li>New Performance Evaluation Metrics for Outlier Detection and Correction</li>
+  <li>
+    New Performance Evaluation Metrics for Outlier Detection and Correction
+    <a href="https://link.springer.com/chapter/10.1007/978-981-16-9033-4_63" target="blank">
+      <img align="center" src="./assets/link.svg" alt="nimishjain_" height="18" width="18" />
+    </a>
+  </li>
 </ul>
 
 ## Recent Articles/Blogs
