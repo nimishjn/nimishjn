@@ -47,12 +47,6 @@
   <img src="https://komarev.com/ghpvc/?username=nimishjn&label=Profile%20views&color=red&?style=flat-square" alt="nimishjn" /> 
 </p> -->
 
-## GitHub Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nimishjn&show_icons=true&locale=en&theme=radical&count_private=true&hide_border=true&hide_title=true" alt="nimishjn" />
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimishjn&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="nimishjn" /> -->
-<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nimishjn&theme=radical&hide_border=true" alt="nimishjn" /> -->
-
 ## Skills and Tools
 <p align="left"> 
   
@@ -208,6 +202,10 @@
   <li>
     Toggle Theme in ReactJs 
     <a href="https://nimishjn.medium.com/toggle-theme-in-reactjs-4095dd35c69d" target="blank"><img align="center" src="./assets/link.svg" alt="nimishjain_" height="18" width="18" /></a>
+  </li>
+  <li>
+    Enhancing Login Security: A New Authentication Schema Using Password and Image Patterns
+    <a href="https://nimishjn.medium.com/a37a3e599009" target="blank"><img align="center" src="./assets/link.svg" alt="nimishjain_" height="18" width="18" /></a>
   </li>
 </ul>
 
