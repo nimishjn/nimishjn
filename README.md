@@ -1,9 +1,13 @@
-<!-- ![Frame 38](https://user-images.githubusercontent.com/63140632/136663757-a09c273b-c185-4bf8-a392-01e3e5fc9a67.png) -->
-![Frame 38](https://user-images.githubusercontent.com/63140632/221672830-16bf4ce0-e162-46dc-8a58-7590025bccd4.svg)
+<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/45e53758-59fb-4e3b-a90c-ddf79bb33eb2" />
+
 
 <p align="center">
   <a href="mailto:nimishjain100701@gmail.com" style="text-decoration:none">
     <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://nimish-jain.com" style="text-decoration:none">
+    <img height="30" src = "https://img.shields.io/badge/portfolio-0c360e?&style=for-the-badge&logo=gnometerminal&logoColor=white">
   </a>
   
   <a href="https://resume.nimish-jain.com" style="text-decoration:none">
